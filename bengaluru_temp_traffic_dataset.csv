@@ -1,0 +1,721 @@
+datetime,junction,traffic_volume,weather,is_holiday,temperature_C,day_of_week
+2025-06-01 00:00:00,Marathahalli,196,Foggy,0,30.0,Sunday
+2025-06-01 01:00:00,KR Puram,222,Foggy,0,24.6,Sunday
+2025-06-01 02:00:00,Madiwala,200,Foggy,0,27.4,Sunday
+2025-06-01 03:00:00,KR Puram,196,Rainy,0,28.0,Sunday
+2025-06-01 04:00:00,KR Puram,200,Clear,0,29.8,Sunday
+2025-06-01 05:00:00,Hebbal,198,Clear,0,30.0,Sunday
+2025-06-01 06:00:00,Madiwala,200,Rainy,0,25.8,Sunday
+2025-06-01 07:00:00,Madiwala,205,Rainy,0,28.2,Sunday
+2025-06-01 08:00:00,Madiwala,175,Clear,0,29.4,Sunday
+2025-06-01 09:00:00,KR Puram,181,Foggy,0,32.4,Sunday
+2025-06-01 10:00:00,Marathahalli,182,Cloudy,0,30.1,Sunday
+2025-06-01 11:00:00,Madiwala,185,Cloudy,0,30.4,Sunday
+2025-06-01 12:00:00,KR Puram,221,Cloudy,0,28.3,Sunday
+2025-06-01 13:00:00,Hebbal,207,Foggy,0,32.2,Sunday
+2025-06-01 14:00:00,Marathahalli,186,Clear,0,29.2,Sunday
+2025-06-01 15:00:00,Hebbal,184,Rainy,0,25.4,Sunday
+2025-06-01 16:00:00,Marathahalli,185,Clear,0,32.2,Sunday
+2025-06-01 17:00:00,KR Puram,181,Foggy,0,30.1,Sunday
+2025-06-01 18:00:00,Silk Board,187,Rainy,0,26.7,Sunday
+2025-06-01 19:00:00,Marathahalli,200,Foggy,0,26.6,Sunday
+2025-06-01 20:00:00,Hebbal,205,Cloudy,0,28.9,Sunday
+2025-06-01 21:00:00,KR Puram,172,Cloudy,0,29.4,Sunday
+2025-06-01 22:00:00,Marathahalli,214,Foggy,0,28.6,Sunday
+2025-06-01 23:00:00,Silk Board,185,Rainy,0,28.9,Sunday
+2025-06-02 00:00:00,Silk Board,195,Rainy,0,33.1,Monday
+2025-06-02 01:00:00,Madiwala,205,Clear,0,31.2,Monday
+2025-06-02 02:00:00,Madiwala,198,Cloudy,0,28.6,Monday
+2025-06-02 03:00:00,Hebbal,161,Clear,0,30.8,Monday
+2025-06-02 04:00:00,Marathahalli,209,Clear,0,24.9,Monday
+2025-06-02 05:00:00,Marathahalli,200,Foggy,1,29.2,Monday
+2025-06-02 06:00:00,Madiwala,179,Foggy,0,33.4,Monday
+2025-06-02 07:00:00,Marathahalli,201,Clear,1,27.3,Monday
+2025-06-02 08:00:00,Marathahalli,190,Cloudy,0,25.5,Monday
+2025-06-02 09:00:00,Silk Board,187,Foggy,1,26.0,Monday
+2025-06-02 10:00:00,Madiwala,181,Clear,0,24.7,Monday
+2025-06-02 11:00:00,KR Puram,204,Clear,0,25.6,Monday
+2025-06-02 12:00:00,Madiwala,213,Clear,0,26.9,Monday
+2025-06-02 13:00:00,KR Puram,177,Clear,0,23.8,Monday
+2025-06-02 14:00:00,Silk Board,203,Clear,0,28.0,Monday
+2025-06-02 15:00:00,Hebbal,197,Clear,0,30.7,Monday
+2025-06-02 16:00:00,Marathahalli,191,Foggy,0,25.3,Monday
+2025-06-02 17:00:00,Silk Board,206,Cloudy,0,32.6,Monday
+2025-06-02 18:00:00,Marathahalli,204,Clear,0,29.5,Monday
+2025-06-02 19:00:00,Hebbal,179,Rainy,0,31.1,Monday
+2025-06-02 20:00:00,Hebbal,189,Foggy,1,26.0,Monday
+2025-06-02 21:00:00,Silk Board,186,Foggy,0,30.6,Monday
+2025-06-02 22:00:00,Hebbal,185,Clear,1,24.7,Monday
+2025-06-02 23:00:00,KR Puram,176,Foggy,0,30.7,Monday
+2025-06-03 00:00:00,Hebbal,196,Clear,0,28.5,Tuesday
+2025-06-03 01:00:00,Marathahalli,180,Cloudy,0,29.7,Tuesday
+2025-06-03 02:00:00,Marathahalli,215,Cloudy,0,24.5,Tuesday
+2025-06-03 03:00:00,Marathahalli,185,Foggy,0,25.3,Tuesday
+2025-06-03 04:00:00,Marathahalli,226,Foggy,0,29.8,Tuesday
+2025-06-03 05:00:00,KR Puram,203,Rainy,0,25.2,Tuesday
+2025-06-03 06:00:00,Madiwala,212,Foggy,1,29.4,Tuesday
+2025-06-03 07:00:00,Silk Board,193,Rainy,0,23.9,Tuesday
+2025-06-03 08:00:00,Marathahalli,200,Cloudy,0,30.5,Tuesday
+2025-06-03 09:00:00,Hebbal,180,Cloudy,0,24.3,Tuesday
+2025-06-03 10:00:00,Marathahalli,191,Clear,0,29.7,Tuesday
+2025-06-03 11:00:00,Hebbal,183,Cloudy,0,29.9,Tuesday
+2025-06-03 12:00:00,Hebbal,201,Rainy,0,25.9,Tuesday
+2025-06-03 13:00:00,Marathahalli,193,Foggy,0,29.7,Tuesday
+2025-06-03 14:00:00,KR Puram,192,Clear,0,28.8,Tuesday
+2025-06-03 15:00:00,Hebbal,189,Rainy,0,26.4,Tuesday
+2025-06-03 16:00:00,Hebbal,211,Foggy,0,25.0,Tuesday
+2025-06-03 17:00:00,Marathahalli,199,Clear,1,22.1,Tuesday
+2025-06-03 18:00:00,Hebbal,194,Cloudy,0,29.0,Tuesday
+2025-06-03 19:00:00,Hebbal,181,Rainy,0,23.3,Tuesday
+2025-06-03 20:00:00,Marathahalli,228,Foggy,0,28.3,Tuesday
+2025-06-03 21:00:00,Marathahalli,173,Clear,1,27.2,Tuesday
+2025-06-03 22:00:00,Silk Board,203,Clear,0,30.0,Tuesday
+2025-06-03 23:00:00,KR Puram,182,Cloudy,0,27.1,Tuesday
+2025-06-04 00:00:00,KR Puram,186,Foggy,0,27.0,Wednesday
+2025-06-04 01:00:00,Hebbal,184,Cloudy,0,30.2,Wednesday
+2025-06-04 02:00:00,KR Puram,207,Cloudy,0,29.0,Wednesday
+2025-06-04 03:00:00,Hebbal,194,Foggy,0,28.9,Wednesday
+2025-06-04 04:00:00,Silk Board,196,Foggy,0,29.4,Wednesday
+2025-06-04 05:00:00,Marathahalli,197,Foggy,0,23.4,Wednesday
+2025-06-04 06:00:00,Marathahalli,198,Rainy,0,30.3,Wednesday
+2025-06-04 07:00:00,Marathahalli,211,Foggy,0,29.8,Wednesday
+2025-06-04 08:00:00,KR Puram,188,Clear,0,24.9,Wednesday
+2025-06-04 09:00:00,Silk Board,195,Cloudy,0,27.3,Wednesday
+2025-06-04 10:00:00,KR Puram,222,Rainy,1,27.9,Wednesday
+2025-06-04 11:00:00,KR Puram,205,Foggy,0,27.6,Wednesday
+2025-06-04 12:00:00,Silk Board,182,Rainy,0,29.0,Wednesday
+2025-06-04 13:00:00,Silk Board,205,Foggy,0,32.3,Wednesday
+2025-06-04 14:00:00,Silk Board,221,Rainy,0,31.2,Wednesday
+2025-06-04 15:00:00,Silk Board,183,Cloudy,0,24.1,Wednesday
+2025-06-04 16:00:00,Marathahalli,189,Cloudy,0,29.9,Wednesday
+2025-06-04 17:00:00,Madiwala,211,Clear,0,32.0,Wednesday
+2025-06-04 18:00:00,Madiwala,193,Clear,0,29.2,Wednesday
+2025-06-04 19:00:00,Silk Board,180,Foggy,0,31.3,Wednesday
+2025-06-04 20:00:00,Madiwala,181,Cloudy,0,34.0,Wednesday
+2025-06-04 21:00:00,Madiwala,213,Rainy,0,31.1,Wednesday
+2025-06-04 22:00:00,Silk Board,188,Rainy,0,28.7,Wednesday
+2025-06-04 23:00:00,Madiwala,209,Rainy,0,31.1,Wednesday
+2025-06-05 00:00:00,KR Puram,208,Clear,0,28.4,Thursday
+2025-06-05 01:00:00,Hebbal,189,Rainy,0,28.1,Thursday
+2025-06-05 02:00:00,Hebbal,203,Clear,0,26.9,Thursday
+2025-06-05 03:00:00,Silk Board,198,Clear,0,32.7,Thursday
+2025-06-05 04:00:00,Marathahalli,183,Foggy,0,25.5,Thursday
+2025-06-05 05:00:00,Silk Board,200,Rainy,0,32.6,Thursday
+2025-06-05 06:00:00,Marathahalli,227,Rainy,1,29.5,Thursday
+2025-06-05 07:00:00,Hebbal,208,Cloudy,0,23.8,Thursday
+2025-06-05 08:00:00,Silk Board,209,Foggy,0,29.1,Thursday
+2025-06-05 09:00:00,KR Puram,203,Cloudy,0,21.7,Thursday
+2025-06-05 10:00:00,Madiwala,197,Foggy,0,29.9,Thursday
+2025-06-05 11:00:00,Marathahalli,227,Rainy,0,30.7,Thursday
+2025-06-05 12:00:00,Madiwala,198,Clear,0,26.2,Thursday
+2025-06-05 13:00:00,Madiwala,181,Clear,1,28.4,Thursday
+2025-06-05 14:00:00,Silk Board,218,Clear,0,33.9,Thursday
+2025-06-05 15:00:00,Madiwala,204,Clear,0,26.5,Thursday
+2025-06-05 16:00:00,KR Puram,170,Clear,0,24.8,Thursday
+2025-06-05 17:00:00,Madiwala,214,Cloudy,0,32.4,Thursday
+2025-06-05 18:00:00,Silk Board,193,Foggy,0,33.9,Thursday
+2025-06-05 19:00:00,KR Puram,201,Rainy,0,28.0,Thursday
+2025-06-05 20:00:00,Hebbal,194,Cloudy,0,31.0,Thursday
+2025-06-05 21:00:00,Madiwala,210,Foggy,0,32.0,Thursday
+2025-06-05 22:00:00,Silk Board,188,Clear,0,25.8,Thursday
+2025-06-05 23:00:00,Hebbal,182,Foggy,0,26.5,Thursday
+2025-06-06 00:00:00,Hebbal,200,Foggy,0,31.7,Friday
+2025-06-06 01:00:00,Marathahalli,223,Clear,0,33.1,Friday
+2025-06-06 02:00:00,KR Puram,203,Clear,0,29.7,Friday
+2025-06-06 03:00:00,Madiwala,183,Clear,0,25.4,Friday
+2025-06-06 04:00:00,Silk Board,200,Rainy,0,34.0,Friday
+2025-06-06 05:00:00,Marathahalli,173,Clear,1,26.4,Friday
+2025-06-06 06:00:00,KR Puram,187,Rainy,0,27.0,Friday
+2025-06-06 07:00:00,Marathahalli,187,Clear,0,29.0,Friday
+2025-06-06 08:00:00,KR Puram,203,Rainy,1,32.7,Friday
+2025-06-06 09:00:00,KR Puram,212,Foggy,0,30.6,Friday
+2025-06-06 10:00:00,Madiwala,201,Cloudy,0,29.2,Friday
+2025-06-06 11:00:00,KR Puram,196,Foggy,0,29.4,Friday
+2025-06-06 12:00:00,Marathahalli,183,Foggy,0,28.1,Friday
+2025-06-06 13:00:00,KR Puram,195,Clear,0,29.7,Friday
+2025-06-06 14:00:00,Madiwala,206,Rainy,0,20.4,Friday
+2025-06-06 15:00:00,Madiwala,209,Cloudy,0,27.1,Friday
+2025-06-06 16:00:00,Marathahalli,188,Clear,0,28.7,Friday
+2025-06-06 17:00:00,Hebbal,213,Clear,0,24.5,Friday
+2025-06-06 18:00:00,Hebbal,206,Clear,0,29.2,Friday
+2025-06-06 19:00:00,KR Puram,178,Foggy,0,27.4,Friday
+2025-06-06 20:00:00,Silk Board,209,Rainy,0,33.3,Friday
+2025-06-06 21:00:00,KR Puram,215,Rainy,1,32.7,Friday
+2025-06-06 22:00:00,Marathahalli,207,Cloudy,1,26.6,Friday
+2025-06-06 23:00:00,Marathahalli,191,Rainy,0,27.5,Friday
+2025-06-07 00:00:00,Marathahalli,187,Rainy,1,27.8,Saturday
+2025-06-07 01:00:00,Marathahalli,185,Clear,0,26.6,Saturday
+2025-06-07 02:00:00,Marathahalli,197,Clear,1,28.6,Saturday
+2025-06-07 03:00:00,Madiwala,215,Foggy,0,25.7,Saturday
+2025-06-07 04:00:00,Hebbal,190,Clear,0,24.6,Saturday
+2025-06-07 05:00:00,Marathahalli,204,Clear,0,29.9,Saturday
+2025-06-07 06:00:00,Silk Board,205,Clear,0,29.9,Saturday
+2025-06-07 07:00:00,Silk Board,202,Clear,0,25.6,Saturday
+2025-06-07 08:00:00,Silk Board,212,Foggy,0,30.7,Saturday
+2025-06-07 09:00:00,Silk Board,218,Clear,0,26.1,Saturday
+2025-06-07 10:00:00,Madiwala,221,Cloudy,0,28.8,Saturday
+2025-06-07 11:00:00,Silk Board,197,Cloudy,0,30.5,Saturday
+2025-06-07 12:00:00,Marathahalli,190,Cloudy,0,27.9,Saturday
+2025-06-07 13:00:00,KR Puram,205,Cloudy,0,29.4,Saturday
+2025-06-07 14:00:00,Silk Board,182,Clear,0,26.5,Saturday
+2025-06-07 15:00:00,Madiwala,185,Cloudy,0,27.4,Saturday
+2025-06-07 16:00:00,Madiwala,180,Clear,0,27.4,Saturday
+2025-06-07 17:00:00,Silk Board,190,Foggy,0,25.8,Saturday
+2025-06-07 18:00:00,KR Puram,206,Cloudy,1,27.5,Saturday
+2025-06-07 19:00:00,Silk Board,187,Rainy,0,23.4,Saturday
+2025-06-07 20:00:00,Madiwala,182,Cloudy,0,26.5,Saturday
+2025-06-07 21:00:00,Hebbal,219,Cloudy,1,27.1,Saturday
+2025-06-07 22:00:00,Marathahalli,204,Clear,0,27.2,Saturday
+2025-06-07 23:00:00,Madiwala,185,Cloudy,0,27.3,Saturday
+2025-06-08 00:00:00,Silk Board,197,Rainy,0,27.8,Sunday
+2025-06-08 01:00:00,Marathahalli,201,Clear,0,29.4,Sunday
+2025-06-08 02:00:00,Silk Board,184,Clear,0,30.6,Sunday
+2025-06-08 03:00:00,Silk Board,176,Foggy,0,26.1,Sunday
+2025-06-08 04:00:00,Hebbal,189,Foggy,0,24.4,Sunday
+2025-06-08 05:00:00,Marathahalli,191,Cloudy,1,24.9,Sunday
+2025-06-08 06:00:00,Marathahalli,209,Foggy,0,26.5,Sunday
+2025-06-08 07:00:00,Hebbal,203,Foggy,0,26.9,Sunday
+2025-06-08 08:00:00,Madiwala,207,Foggy,0,25.7,Sunday
+2025-06-08 09:00:00,Silk Board,210,Clear,0,24.1,Sunday
+2025-06-08 10:00:00,KR Puram,204,Clear,0,26.6,Sunday
+2025-06-08 11:00:00,Silk Board,200,Clear,0,28.5,Sunday
+2025-06-08 12:00:00,Silk Board,193,Foggy,0,29.8,Sunday
+2025-06-08 13:00:00,Madiwala,179,Clear,0,26.3,Sunday
+2025-06-08 14:00:00,Silk Board,210,Foggy,0,26.8,Sunday
+2025-06-08 15:00:00,Hebbal,208,Clear,0,25.2,Sunday
+2025-06-08 16:00:00,Hebbal,189,Clear,0,27.9,Sunday
+2025-06-08 17:00:00,Marathahalli,213,Rainy,0,25.5,Sunday
+2025-06-08 18:00:00,KR Puram,190,Cloudy,0,29.7,Sunday
+2025-06-08 19:00:00,Silk Board,194,Foggy,0,22.6,Sunday
+2025-06-08 20:00:00,Silk Board,224,Rainy,0,26.9,Sunday
+2025-06-08 21:00:00,Madiwala,232,Clear,0,28.9,Sunday
+2025-06-08 22:00:00,Hebbal,185,Foggy,1,28.6,Sunday
+2025-06-08 23:00:00,KR Puram,219,Clear,0,36.1,Sunday
+2025-06-09 00:00:00,Marathahalli,214,Cloudy,1,29.0,Monday
+2025-06-09 01:00:00,Hebbal,208,Rainy,0,25.0,Monday
+2025-06-09 02:00:00,Marathahalli,189,Cloudy,1,27.7,Monday
+2025-06-09 03:00:00,Madiwala,230,Rainy,0,22.7,Monday
+2025-06-09 04:00:00,Madiwala,185,Clear,1,27.8,Monday
+2025-06-09 05:00:00,Silk Board,224,Cloudy,1,25.5,Monday
+2025-06-09 06:00:00,KR Puram,208,Cloudy,0,30.7,Monday
+2025-06-09 07:00:00,Marathahalli,230,Clear,1,26.4,Monday
+2025-06-09 08:00:00,Hebbal,218,Cloudy,0,27.6,Monday
+2025-06-09 09:00:00,Madiwala,192,Foggy,0,26.1,Monday
+2025-06-09 10:00:00,Silk Board,188,Rainy,0,33.2,Monday
+2025-06-09 11:00:00,Silk Board,175,Rainy,0,27.0,Monday
+2025-06-09 12:00:00,Marathahalli,193,Rainy,0,33.5,Monday
+2025-06-09 13:00:00,Madiwala,173,Foggy,0,30.4,Monday
+2025-06-09 14:00:00,KR Puram,202,Rainy,1,29.4,Monday
+2025-06-09 15:00:00,Madiwala,192,Clear,0,29.1,Monday
+2025-06-09 16:00:00,Marathahalli,220,Cloudy,0,29.2,Monday
+2025-06-09 17:00:00,Marathahalli,188,Foggy,1,22.2,Monday
+2025-06-09 18:00:00,Madiwala,218,Rainy,1,27.2,Monday
+2025-06-09 19:00:00,Marathahalli,219,Clear,1,30.5,Monday
+2025-06-09 20:00:00,Madiwala,228,Cloudy,0,27.9,Monday
+2025-06-09 21:00:00,Hebbal,212,Cloudy,1,23.8,Monday
+2025-06-09 22:00:00,Madiwala,199,Foggy,0,27.8,Monday
+2025-06-09 23:00:00,Madiwala,212,Foggy,0,33.1,Monday
+2025-06-10 00:00:00,Marathahalli,197,Foggy,0,31.7,Tuesday
+2025-06-10 01:00:00,Marathahalli,188,Clear,0,27.8,Tuesday
+2025-06-10 02:00:00,Silk Board,194,Clear,0,30.9,Tuesday
+2025-06-10 03:00:00,Silk Board,191,Foggy,0,26.9,Tuesday
+2025-06-10 04:00:00,Hebbal,165,Rainy,0,22.9,Tuesday
+2025-06-10 05:00:00,Silk Board,195,Cloudy,0,25.2,Tuesday
+2025-06-10 06:00:00,Madiwala,213,Cloudy,0,32.7,Tuesday
+2025-06-10 07:00:00,Marathahalli,197,Clear,0,27.2,Tuesday
+2025-06-10 08:00:00,Silk Board,230,Cloudy,0,27.3,Tuesday
+2025-06-10 09:00:00,Silk Board,205,Rainy,0,27.1,Tuesday
+2025-06-10 10:00:00,Hebbal,229,Cloudy,0,33.7,Tuesday
+2025-06-10 11:00:00,Hebbal,204,Clear,0,32.9,Tuesday
+2025-06-10 12:00:00,Madiwala,188,Clear,1,34.7,Tuesday
+2025-06-10 13:00:00,Marathahalli,188,Rainy,0,27.5,Tuesday
+2025-06-10 14:00:00,Hebbal,212,Rainy,0,28.9,Tuesday
+2025-06-10 15:00:00,Silk Board,196,Cloudy,0,23.5,Tuesday
+2025-06-10 16:00:00,Marathahalli,208,Cloudy,0,32.4,Tuesday
+2025-06-10 17:00:00,Marathahalli,214,Clear,0,24.5,Tuesday
+2025-06-10 18:00:00,Silk Board,188,Rainy,0,28.7,Tuesday
+2025-06-10 19:00:00,Hebbal,204,Rainy,0,24.7,Tuesday
+2025-06-10 20:00:00,Silk Board,177,Rainy,0,26.2,Tuesday
+2025-06-10 21:00:00,Marathahalli,190,Cloudy,0,25.5,Tuesday
+2025-06-10 22:00:00,KR Puram,218,Rainy,0,26.2,Tuesday
+2025-06-10 23:00:00,KR Puram,206,Clear,0,26.4,Tuesday
+2025-06-11 00:00:00,Madiwala,177,Clear,0,26.4,Wednesday
+2025-06-11 01:00:00,Silk Board,195,Cloudy,0,30.5,Wednesday
+2025-06-11 02:00:00,Silk Board,210,Foggy,0,24.7,Wednesday
+2025-06-11 03:00:00,Madiwala,176,Cloudy,1,28.7,Wednesday
+2025-06-11 04:00:00,Madiwala,208,Foggy,1,31.7,Wednesday
+2025-06-11 05:00:00,Madiwala,217,Rainy,0,26.5,Wednesday
+2025-06-11 06:00:00,Marathahalli,199,Cloudy,0,25.8,Wednesday
+2025-06-11 07:00:00,Silk Board,215,Clear,0,27.3,Wednesday
+2025-06-11 08:00:00,Marathahalli,207,Rainy,0,31.5,Wednesday
+2025-06-11 09:00:00,Madiwala,190,Clear,0,28.6,Wednesday
+2025-06-11 10:00:00,Silk Board,213,Rainy,1,26.4,Wednesday
+2025-06-11 11:00:00,Marathahalli,209,Cloudy,1,29.5,Wednesday
+2025-06-11 12:00:00,Marathahalli,208,Foggy,0,24.7,Wednesday
+2025-06-11 13:00:00,Madiwala,205,Rainy,0,30.0,Wednesday
+2025-06-11 14:00:00,Silk Board,184,Foggy,0,29.2,Wednesday
+2025-06-11 15:00:00,Madiwala,219,Rainy,0,27.1,Wednesday
+2025-06-11 16:00:00,Silk Board,215,Clear,0,25.5,Wednesday
+2025-06-11 17:00:00,KR Puram,193,Clear,0,25.3,Wednesday
+2025-06-11 18:00:00,Hebbal,184,Rainy,0,29.6,Wednesday
+2025-06-11 19:00:00,Hebbal,215,Foggy,0,31.7,Wednesday
+2025-06-11 20:00:00,Hebbal,205,Cloudy,0,26.1,Wednesday
+2025-06-11 21:00:00,Madiwala,205,Cloudy,1,29.4,Wednesday
+2025-06-11 22:00:00,KR Puram,212,Clear,0,21.7,Wednesday
+2025-06-11 23:00:00,Silk Board,211,Cloudy,0,26.2,Wednesday
+2025-06-12 00:00:00,Marathahalli,238,Clear,0,27.9,Thursday
+2025-06-12 01:00:00,Silk Board,205,Cloudy,0,25.3,Thursday
+2025-06-12 02:00:00,Marathahalli,179,Rainy,0,25.2,Thursday
+2025-06-12 03:00:00,Silk Board,208,Clear,0,26.0,Thursday
+2025-06-12 04:00:00,KR Puram,191,Clear,1,28.9,Thursday
+2025-06-12 05:00:00,Marathahalli,173,Rainy,0,27.4,Thursday
+2025-06-12 06:00:00,Madiwala,194,Clear,1,21.3,Thursday
+2025-06-12 07:00:00,Silk Board,211,Cloudy,0,21.6,Thursday
+2025-06-12 08:00:00,Silk Board,211,Cloudy,0,26.2,Thursday
+2025-06-12 09:00:00,Marathahalli,199,Clear,0,29.4,Thursday
+2025-06-12 10:00:00,Madiwala,208,Cloudy,0,19.8,Thursday
+2025-06-12 11:00:00,Madiwala,197,Foggy,0,26.5,Thursday
+2025-06-12 12:00:00,KR Puram,184,Clear,0,26.4,Thursday
+2025-06-12 13:00:00,Madiwala,208,Rainy,0,32.2,Thursday
+2025-06-12 14:00:00,Madiwala,176,Foggy,1,26.8,Thursday
+2025-06-12 15:00:00,Madiwala,206,Clear,1,29.1,Thursday
+2025-06-12 16:00:00,Hebbal,232,Rainy,1,28.4,Thursday
+2025-06-12 17:00:00,KR Puram,197,Cloudy,0,21.6,Thursday
+2025-06-12 18:00:00,Silk Board,197,Rainy,0,30.3,Thursday
+2025-06-12 19:00:00,Marathahalli,196,Foggy,0,28.6,Thursday
+2025-06-12 20:00:00,Silk Board,221,Cloudy,0,29.5,Thursday
+2025-06-12 21:00:00,KR Puram,187,Clear,0,39.8,Thursday
+2025-06-12 22:00:00,Marathahalli,206,Cloudy,0,21.7,Thursday
+2025-06-12 23:00:00,KR Puram,218,Clear,0,33.2,Thursday
+2025-06-13 00:00:00,Madiwala,242,Clear,0,27.1,Friday
+2025-06-13 01:00:00,Marathahalli,218,Rainy,1,28.9,Friday
+2025-06-13 02:00:00,Madiwala,212,Rainy,0,27.9,Friday
+2025-06-13 03:00:00,Silk Board,211,Rainy,0,26.7,Friday
+2025-06-13 04:00:00,Silk Board,182,Foggy,0,26.3,Friday
+2025-06-13 05:00:00,Marathahalli,224,Foggy,1,29.0,Friday
+2025-06-13 06:00:00,Marathahalli,213,Rainy,0,23.4,Friday
+2025-06-13 07:00:00,KR Puram,180,Foggy,0,30.3,Friday
+2025-06-13 08:00:00,KR Puram,208,Cloudy,0,26.8,Friday
+2025-06-13 09:00:00,Madiwala,186,Cloudy,0,24.6,Friday
+2025-06-13 10:00:00,Marathahalli,172,Foggy,0,26.6,Friday
+2025-06-13 11:00:00,Silk Board,190,Foggy,0,31.8,Friday
+2025-06-13 12:00:00,KR Puram,192,Cloudy,0,26.4,Friday
+2025-06-13 13:00:00,KR Puram,196,Clear,0,29.1,Friday
+2025-06-13 14:00:00,Silk Board,204,Cloudy,0,25.8,Friday
+2025-06-13 15:00:00,KR Puram,208,Cloudy,1,30.3,Friday
+2025-06-13 16:00:00,Madiwala,212,Foggy,0,30.1,Friday
+2025-06-13 17:00:00,Marathahalli,199,Cloudy,0,33.5,Friday
+2025-06-13 18:00:00,Silk Board,183,Foggy,0,27.5,Friday
+2025-06-13 19:00:00,Marathahalli,205,Foggy,0,30.0,Friday
+2025-06-13 20:00:00,KR Puram,202,Rainy,0,28.3,Friday
+2025-06-13 21:00:00,KR Puram,193,Cloudy,0,31.9,Friday
+2025-06-13 22:00:00,Silk Board,177,Clear,0,25.8,Friday
+2025-06-13 23:00:00,Madiwala,159,Rainy,0,30.2,Friday
+2025-06-14 00:00:00,Hebbal,196,Foggy,0,27.4,Saturday
+2025-06-14 01:00:00,Silk Board,203,Foggy,0,27.8,Saturday
+2025-06-14 02:00:00,Hebbal,214,Clear,1,28.3,Saturday
+2025-06-14 03:00:00,Hebbal,184,Foggy,0,28.8,Saturday
+2025-06-14 04:00:00,Madiwala,206,Cloudy,0,27.7,Saturday
+2025-06-14 05:00:00,Hebbal,169,Rainy,0,28.6,Saturday
+2025-06-14 06:00:00,Hebbal,209,Foggy,0,32.7,Saturday
+2025-06-14 07:00:00,Madiwala,209,Foggy,0,31.0,Saturday
+2025-06-14 08:00:00,Hebbal,193,Clear,0,30.6,Saturday
+2025-06-14 09:00:00,Hebbal,176,Cloudy,1,26.6,Saturday
+2025-06-14 10:00:00,Hebbal,202,Foggy,0,25.3,Saturday
+2025-06-14 11:00:00,Silk Board,198,Clear,0,30.9,Saturday
+2025-06-14 12:00:00,Silk Board,201,Foggy,0,30.6,Saturday
+2025-06-14 13:00:00,Silk Board,176,Clear,0,32.4,Saturday
+2025-06-14 14:00:00,Madiwala,189,Clear,0,26.2,Saturday
+2025-06-14 15:00:00,KR Puram,219,Cloudy,0,27.3,Saturday
+2025-06-14 16:00:00,Hebbal,185,Foggy,0,23.1,Saturday
+2025-06-14 17:00:00,Hebbal,207,Cloudy,0,26.8,Saturday
+2025-06-14 18:00:00,Madiwala,202,Clear,0,31.0,Saturday
+2025-06-14 19:00:00,Hebbal,186,Rainy,0,26.6,Saturday
+2025-06-14 20:00:00,Silk Board,174,Foggy,0,29.9,Saturday
+2025-06-14 21:00:00,KR Puram,189,Rainy,1,27.4,Saturday
+2025-06-14 22:00:00,Marathahalli,218,Foggy,0,29.0,Saturday
+2025-06-14 23:00:00,Hebbal,210,Cloudy,1,24.6,Saturday
+2025-06-15 00:00:00,Silk Board,194,Cloudy,0,28.3,Sunday
+2025-06-15 01:00:00,Marathahalli,218,Cloudy,0,19.0,Sunday
+2025-06-15 02:00:00,KR Puram,197,Cloudy,0,27.4,Sunday
+2025-06-15 03:00:00,Marathahalli,199,Cloudy,0,23.1,Sunday
+2025-06-15 04:00:00,Silk Board,222,Rainy,0,31.6,Sunday
+2025-06-15 05:00:00,Marathahalli,190,Cloudy,0,30.3,Sunday
+2025-06-15 06:00:00,Madiwala,223,Clear,0,29.4,Sunday
+2025-06-15 07:00:00,Marathahalli,205,Clear,0,32.6,Sunday
+2025-06-15 08:00:00,Hebbal,210,Rainy,0,25.2,Sunday
+2025-06-15 09:00:00,Hebbal,209,Foggy,0,33.2,Sunday
+2025-06-15 10:00:00,Madiwala,185,Clear,1,30.8,Sunday
+2025-06-15 11:00:00,Silk Board,245,Foggy,0,27.3,Sunday
+2025-06-15 12:00:00,Hebbal,217,Rainy,0,31.4,Sunday
+2025-06-15 13:00:00,KR Puram,189,Foggy,0,24.7,Sunday
+2025-06-15 14:00:00,Hebbal,198,Foggy,0,25.5,Sunday
+2025-06-15 15:00:00,Hebbal,194,Foggy,0,26.2,Sunday
+2025-06-15 16:00:00,Silk Board,184,Foggy,0,26.4,Sunday
+2025-06-15 17:00:00,Marathahalli,243,Rainy,0,24.8,Sunday
+2025-06-15 18:00:00,Hebbal,206,Clear,0,31.7,Sunday
+2025-06-15 19:00:00,Madiwala,212,Cloudy,0,27.2,Sunday
+2025-06-15 20:00:00,Marathahalli,188,Foggy,0,29.1,Sunday
+2025-06-15 21:00:00,KR Puram,184,Clear,1,26.3,Sunday
+2025-06-15 22:00:00,Silk Board,193,Clear,0,22.5,Sunday
+2025-06-15 23:00:00,KR Puram,197,Rainy,0,28.8,Sunday
+2025-06-16 00:00:00,Marathahalli,205,Clear,0,22.3,Monday
+2025-06-16 01:00:00,Marathahalli,184,Rainy,0,27.8,Monday
+2025-06-16 02:00:00,Marathahalli,207,Foggy,1,23.9,Monday
+2025-06-16 03:00:00,KR Puram,216,Foggy,0,34.0,Monday
+2025-06-16 04:00:00,Marathahalli,203,Cloudy,0,30.7,Monday
+2025-06-16 05:00:00,KR Puram,187,Cloudy,1,28.3,Monday
+2025-06-16 06:00:00,Marathahalli,190,Cloudy,0,31.8,Monday
+2025-06-16 07:00:00,Madiwala,201,Clear,0,25.5,Monday
+2025-06-16 08:00:00,Marathahalli,163,Foggy,0,29.6,Monday
+2025-06-16 09:00:00,KR Puram,198,Rainy,0,28.6,Monday
+2025-06-16 10:00:00,Hebbal,192,Cloudy,0,28.8,Monday
+2025-06-16 11:00:00,Marathahalli,164,Rainy,1,31.8,Monday
+2025-06-16 12:00:00,Hebbal,206,Rainy,1,30.2,Monday
+2025-06-16 13:00:00,Madiwala,198,Cloudy,0,28.9,Monday
+2025-06-16 14:00:00,Silk Board,199,Foggy,0,23.0,Monday
+2025-06-16 15:00:00,Madiwala,182,Cloudy,0,25.1,Monday
+2025-06-16 16:00:00,Marathahalli,192,Rainy,1,27.6,Monday
+2025-06-16 17:00:00,Hebbal,186,Cloudy,0,28.3,Monday
+2025-06-16 18:00:00,Hebbal,244,Rainy,0,24.6,Monday
+2025-06-16 19:00:00,KR Puram,207,Rainy,0,35.2,Monday
+2025-06-16 20:00:00,Hebbal,218,Cloudy,0,32.5,Monday
+2025-06-16 21:00:00,KR Puram,208,Clear,0,29.8,Monday
+2025-06-16 22:00:00,Silk Board,230,Cloudy,0,28.2,Monday
+2025-06-16 23:00:00,Marathahalli,200,Clear,0,27.4,Monday
+2025-06-17 00:00:00,KR Puram,218,Rainy,0,25.1,Tuesday
+2025-06-17 01:00:00,Silk Board,208,Rainy,0,28.2,Tuesday
+2025-06-17 02:00:00,Hebbal,187,Clear,0,28.8,Tuesday
+2025-06-17 03:00:00,Hebbal,196,Rainy,1,24.3,Tuesday
+2025-06-17 04:00:00,Silk Board,179,Clear,0,29.0,Tuesday
+2025-06-17 05:00:00,Hebbal,218,Clear,0,27.5,Tuesday
+2025-06-17 06:00:00,Silk Board,203,Rainy,0,22.3,Tuesday
+2025-06-17 07:00:00,KR Puram,219,Foggy,0,25.4,Tuesday
+2025-06-17 08:00:00,KR Puram,193,Clear,0,26.8,Tuesday
+2025-06-17 09:00:00,Silk Board,214,Cloudy,1,33.7,Tuesday
+2025-06-17 10:00:00,KR Puram,213,Cloudy,0,29.7,Tuesday
+2025-06-17 11:00:00,KR Puram,215,Rainy,0,24.0,Tuesday
+2025-06-17 12:00:00,KR Puram,202,Foggy,0,29.5,Tuesday
+2025-06-17 13:00:00,Madiwala,193,Rainy,1,23.4,Tuesday
+2025-06-17 14:00:00,Marathahalli,196,Foggy,0,31.2,Tuesday
+2025-06-17 15:00:00,Hebbal,195,Clear,0,26.6,Tuesday
+2025-06-17 16:00:00,Madiwala,188,Clear,0,27.7,Tuesday
+2025-06-17 17:00:00,KR Puram,188,Clear,0,32.0,Tuesday
+2025-06-17 18:00:00,Silk Board,204,Clear,0,24.1,Tuesday
+2025-06-17 19:00:00,KR Puram,205,Cloudy,1,23.8,Tuesday
+2025-06-17 20:00:00,Marathahalli,195,Cloudy,0,26.2,Tuesday
+2025-06-17 21:00:00,KR Puram,201,Rainy,0,31.1,Tuesday
+2025-06-17 22:00:00,Silk Board,195,Foggy,0,23.4,Tuesday
+2025-06-17 23:00:00,Marathahalli,203,Clear,1,19.5,Tuesday
+2025-06-18 00:00:00,KR Puram,204,Clear,0,26.6,Wednesday
+2025-06-18 01:00:00,Marathahalli,214,Foggy,0,29.7,Wednesday
+2025-06-18 02:00:00,Hebbal,234,Foggy,0,31.6,Wednesday
+2025-06-18 03:00:00,Hebbal,186,Rainy,0,26.6,Wednesday
+2025-06-18 04:00:00,KR Puram,206,Foggy,0,26.8,Wednesday
+2025-06-18 05:00:00,Marathahalli,189,Clear,0,31.5,Wednesday
+2025-06-18 06:00:00,Silk Board,194,Clear,1,22.4,Wednesday
+2025-06-18 07:00:00,KR Puram,199,Clear,0,26.8,Wednesday
+2025-06-18 08:00:00,Hebbal,191,Clear,0,28.6,Wednesday
+2025-06-18 09:00:00,Hebbal,214,Clear,0,29.3,Wednesday
+2025-06-18 10:00:00,KR Puram,192,Rainy,0,26.5,Wednesday
+2025-06-18 11:00:00,Marathahalli,209,Clear,0,28.1,Wednesday
+2025-06-18 12:00:00,Hebbal,196,Rainy,0,20.5,Wednesday
+2025-06-18 13:00:00,Marathahalli,185,Clear,0,26.0,Wednesday
+2025-06-18 14:00:00,Hebbal,185,Cloudy,0,29.4,Wednesday
+2025-06-18 15:00:00,Hebbal,209,Cloudy,0,25.1,Wednesday
+2025-06-18 16:00:00,Madiwala,203,Cloudy,0,28.2,Wednesday
+2025-06-18 17:00:00,Hebbal,238,Cloudy,0,29.3,Wednesday
+2025-06-18 18:00:00,Silk Board,214,Rainy,0,27.0,Wednesday
+2025-06-18 19:00:00,KR Puram,232,Rainy,0,28.5,Wednesday
+2025-06-18 20:00:00,KR Puram,188,Foggy,0,25.1,Wednesday
+2025-06-18 21:00:00,Marathahalli,204,Clear,0,27.4,Wednesday
+2025-06-18 22:00:00,Hebbal,194,Cloudy,0,29.8,Wednesday
+2025-06-18 23:00:00,Silk Board,212,Rainy,0,28.5,Wednesday
+2025-06-19 00:00:00,Marathahalli,215,Clear,0,26.2,Thursday
+2025-06-19 01:00:00,Madiwala,207,Clear,0,28.7,Thursday
+2025-06-19 02:00:00,Marathahalli,205,Rainy,1,30.1,Thursday
+2025-06-19 03:00:00,Marathahalli,203,Cloudy,0,21.9,Thursday
+2025-06-19 04:00:00,Hebbal,210,Foggy,0,31.5,Thursday
+2025-06-19 05:00:00,Madiwala,187,Clear,0,27.0,Thursday
+2025-06-19 06:00:00,Marathahalli,204,Foggy,0,29.3,Thursday
+2025-06-19 07:00:00,Silk Board,188,Cloudy,0,31.6,Thursday
+2025-06-19 08:00:00,Silk Board,204,Cloudy,0,23.9,Thursday
+2025-06-19 09:00:00,KR Puram,208,Foggy,0,25.9,Thursday
+2025-06-19 10:00:00,Madiwala,197,Cloudy,0,27.1,Thursday
+2025-06-19 11:00:00,Madiwala,181,Clear,0,25.6,Thursday
+2025-06-19 12:00:00,KR Puram,210,Foggy,0,33.2,Thursday
+2025-06-19 13:00:00,Marathahalli,190,Cloudy,1,25.4,Thursday
+2025-06-19 14:00:00,Madiwala,186,Foggy,0,26.3,Thursday
+2025-06-19 15:00:00,Silk Board,188,Clear,0,28.6,Thursday
+2025-06-19 16:00:00,Silk Board,174,Cloudy,0,24.4,Thursday
+2025-06-19 17:00:00,Hebbal,173,Clear,1,26.8,Thursday
+2025-06-19 18:00:00,Madiwala,188,Cloudy,0,29.0,Thursday
+2025-06-19 19:00:00,Marathahalli,219,Rainy,0,27.0,Thursday
+2025-06-19 20:00:00,KR Puram,201,Cloudy,0,27.7,Thursday
+2025-06-19 21:00:00,KR Puram,193,Foggy,0,26.4,Thursday
+2025-06-19 22:00:00,Marathahalli,202,Cloudy,0,23.5,Thursday
+2025-06-19 23:00:00,Hebbal,199,Clear,0,29.0,Thursday
+2025-06-20 00:00:00,KR Puram,202,Clear,0,33.3,Friday
+2025-06-20 01:00:00,Madiwala,185,Cloudy,0,28.1,Friday
+2025-06-20 02:00:00,Hebbal,186,Foggy,0,28.7,Friday
+2025-06-20 03:00:00,Madiwala,178,Rainy,0,30.1,Friday
+2025-06-20 04:00:00,Silk Board,211,Foggy,0,24.2,Friday
+2025-06-20 05:00:00,Hebbal,207,Rainy,0,33.1,Friday
+2025-06-20 06:00:00,KR Puram,226,Clear,0,28.6,Friday
+2025-06-20 07:00:00,Hebbal,196,Foggy,1,32.9,Friday
+2025-06-20 08:00:00,Hebbal,202,Rainy,0,25.8,Friday
+2025-06-20 09:00:00,Hebbal,201,Cloudy,0,33.5,Friday
+2025-06-20 10:00:00,Hebbal,177,Clear,0,30.3,Friday
+2025-06-20 11:00:00,Madiwala,181,Cloudy,1,29.7,Friday
+2025-06-20 12:00:00,Silk Board,212,Clear,0,28.7,Friday
+2025-06-20 13:00:00,Marathahalli,161,Foggy,0,27.3,Friday
+2025-06-20 14:00:00,Hebbal,190,Foggy,0,31.6,Friday
+2025-06-20 15:00:00,KR Puram,177,Clear,0,28.4,Friday
+2025-06-20 16:00:00,Hebbal,202,Clear,0,22.1,Friday
+2025-06-20 17:00:00,KR Puram,196,Clear,0,24.6,Friday
+2025-06-20 18:00:00,Madiwala,204,Foggy,0,27.4,Friday
+2025-06-20 19:00:00,KR Puram,224,Rainy,1,28.9,Friday
+2025-06-20 20:00:00,Marathahalli,180,Cloudy,0,27.8,Friday
+2025-06-20 21:00:00,Silk Board,195,Cloudy,0,31.7,Friday
+2025-06-20 22:00:00,KR Puram,218,Foggy,0,22.1,Friday
+2025-06-20 23:00:00,KR Puram,213,Cloudy,0,28.4,Friday
+2025-06-21 00:00:00,Silk Board,176,Clear,0,22.5,Saturday
+2025-06-21 01:00:00,Marathahalli,185,Rainy,0,30.3,Saturday
+2025-06-21 02:00:00,Hebbal,194,Cloudy,0,27.7,Saturday
+2025-06-21 03:00:00,KR Puram,206,Rainy,1,29.3,Saturday
+2025-06-21 04:00:00,Silk Board,182,Clear,1,25.4,Saturday
+2025-06-21 05:00:00,Madiwala,225,Cloudy,0,31.8,Saturday
+2025-06-21 06:00:00,Silk Board,204,Foggy,0,31.1,Saturday
+2025-06-21 07:00:00,Madiwala,185,Rainy,1,29.8,Saturday
+2025-06-21 08:00:00,Marathahalli,196,Clear,0,27.6,Saturday
+2025-06-21 09:00:00,Hebbal,194,Rainy,1,29.7,Saturday
+2025-06-21 10:00:00,Silk Board,192,Cloudy,0,25.9,Saturday
+2025-06-21 11:00:00,KR Puram,197,Cloudy,0,30.6,Saturday
+2025-06-21 12:00:00,Marathahalli,206,Foggy,0,32.9,Saturday
+2025-06-21 13:00:00,Silk Board,205,Clear,0,31.2,Saturday
+2025-06-21 14:00:00,KR Puram,183,Clear,0,25.8,Saturday
+2025-06-21 15:00:00,Silk Board,212,Foggy,0,29.1,Saturday
+2025-06-21 16:00:00,Madiwala,171,Foggy,0,24.1,Saturday
+2025-06-21 17:00:00,Silk Board,183,Clear,0,29.7,Saturday
+2025-06-21 18:00:00,Silk Board,192,Rainy,0,29.4,Saturday
+2025-06-21 19:00:00,Silk Board,208,Rainy,1,22.4,Saturday
+2025-06-21 20:00:00,Marathahalli,214,Foggy,0,24.5,Saturday
+2025-06-21 21:00:00,Silk Board,192,Rainy,0,27.2,Saturday
+2025-06-21 22:00:00,KR Puram,201,Clear,0,27.1,Saturday
+2025-06-21 23:00:00,Madiwala,182,Cloudy,0,24.4,Saturday
+2025-06-22 00:00:00,Madiwala,198,Cloudy,1,29.2,Sunday
+2025-06-22 01:00:00,Silk Board,194,Rainy,0,28.8,Sunday
+2025-06-22 02:00:00,Marathahalli,215,Foggy,0,27.4,Sunday
+2025-06-22 03:00:00,Marathahalli,212,Foggy,0,25.7,Sunday
+2025-06-22 04:00:00,KR Puram,197,Foggy,0,31.1,Sunday
+2025-06-22 05:00:00,Silk Board,211,Foggy,0,33.0,Sunday
+2025-06-22 06:00:00,Madiwala,201,Foggy,1,26.5,Sunday
+2025-06-22 07:00:00,Marathahalli,236,Rainy,0,26.2,Sunday
+2025-06-22 08:00:00,Silk Board,180,Cloudy,0,29.5,Sunday
+2025-06-22 09:00:00,Marathahalli,198,Cloudy,0,26.9,Sunday
+2025-06-22 10:00:00,Marathahalli,178,Rainy,0,27.6,Sunday
+2025-06-22 11:00:00,Madiwala,183,Foggy,0,30.2,Sunday
+2025-06-22 12:00:00,Hebbal,210,Rainy,0,22.3,Sunday
+2025-06-22 13:00:00,KR Puram,195,Cloudy,0,32.0,Sunday
+2025-06-22 14:00:00,KR Puram,198,Clear,0,28.2,Sunday
+2025-06-22 15:00:00,Madiwala,213,Rainy,0,26.8,Sunday
+2025-06-22 16:00:00,Marathahalli,208,Foggy,0,27.7,Sunday
+2025-06-22 17:00:00,Silk Board,189,Cloudy,0,27.9,Sunday
+2025-06-22 18:00:00,Marathahalli,198,Cloudy,0,22.8,Sunday
+2025-06-22 19:00:00,Madiwala,207,Cloudy,1,32.5,Sunday
+2025-06-22 20:00:00,KR Puram,206,Cloudy,0,28.1,Sunday
+2025-06-22 21:00:00,Marathahalli,173,Foggy,0,29.3,Sunday
+2025-06-22 22:00:00,KR Puram,183,Clear,0,30.9,Sunday
+2025-06-22 23:00:00,Silk Board,200,Cloudy,0,24.9,Sunday
+2025-06-23 00:00:00,KR Puram,164,Rainy,0,29.4,Monday
+2025-06-23 01:00:00,KR Puram,209,Clear,0,27.2,Monday
+2025-06-23 02:00:00,Hebbal,174,Cloudy,0,30.5,Monday
+2025-06-23 03:00:00,Hebbal,194,Clear,0,21.6,Monday
+2025-06-23 04:00:00,Hebbal,194,Rainy,0,27.7,Monday
+2025-06-23 05:00:00,KR Puram,207,Cloudy,0,26.2,Monday
+2025-06-23 06:00:00,Madiwala,185,Rainy,0,29.3,Monday
+2025-06-23 07:00:00,KR Puram,207,Foggy,0,29.4,Monday
+2025-06-23 08:00:00,Madiwala,190,Cloudy,1,25.9,Monday
+2025-06-23 09:00:00,Madiwala,191,Cloudy,0,25.9,Monday
+2025-06-23 10:00:00,Hebbal,205,Cloudy,0,27.7,Monday
+2025-06-23 11:00:00,Marathahalli,187,Cloudy,0,25.3,Monday
+2025-06-23 12:00:00,Silk Board,205,Foggy,1,30.5,Monday
+2025-06-23 13:00:00,Hebbal,206,Cloudy,0,26.9,Monday
+2025-06-23 14:00:00,Hebbal,213,Clear,0,19.3,Monday
+2025-06-23 15:00:00,Marathahalli,203,Cloudy,0,26.9,Monday
+2025-06-23 16:00:00,Silk Board,214,Foggy,0,24.9,Monday
+2025-06-23 17:00:00,KR Puram,181,Cloudy,0,23.1,Monday
+2025-06-23 18:00:00,KR Puram,226,Clear,0,24.3,Monday
+2025-06-23 19:00:00,Hebbal,195,Foggy,0,28.3,Monday
+2025-06-23 20:00:00,Silk Board,197,Foggy,0,32.0,Monday
+2025-06-23 21:00:00,Hebbal,229,Clear,1,28.9,Monday
+2025-06-23 22:00:00,Madiwala,181,Clear,0,26.2,Monday
+2025-06-23 23:00:00,Hebbal,220,Clear,0,29.4,Monday
+2025-06-24 00:00:00,Hebbal,191,Clear,0,26.6,Tuesday
+2025-06-24 01:00:00,KR Puram,218,Clear,0,25.9,Tuesday
+2025-06-24 02:00:00,KR Puram,224,Foggy,1,24.5,Tuesday
+2025-06-24 03:00:00,KR Puram,211,Foggy,0,22.7,Tuesday
+2025-06-24 04:00:00,Madiwala,216,Cloudy,0,26.8,Tuesday
+2025-06-24 05:00:00,KR Puram,212,Cloudy,0,28.5,Tuesday
+2025-06-24 06:00:00,Silk Board,185,Rainy,0,27.7,Tuesday
+2025-06-24 07:00:00,Marathahalli,165,Cloudy,0,26.8,Tuesday
+2025-06-24 08:00:00,Silk Board,182,Cloudy,0,25.2,Tuesday
+2025-06-24 09:00:00,Silk Board,215,Clear,0,29.8,Tuesday
+2025-06-24 10:00:00,KR Puram,200,Clear,0,24.0,Tuesday
+2025-06-24 11:00:00,Marathahalli,210,Cloudy,0,30.3,Tuesday
+2025-06-24 12:00:00,Marathahalli,204,Rainy,1,25.0,Tuesday
+2025-06-24 13:00:00,Marathahalli,191,Clear,0,25.7,Tuesday
+2025-06-24 14:00:00,Madiwala,208,Cloudy,0,23.6,Tuesday
+2025-06-24 15:00:00,KR Puram,206,Cloudy,0,26.5,Tuesday
+2025-06-24 16:00:00,Marathahalli,184,Foggy,0,30.9,Tuesday
+2025-06-24 17:00:00,Madiwala,178,Rainy,0,29.5,Tuesday
+2025-06-24 18:00:00,Hebbal,214,Foggy,0,30.9,Tuesday
+2025-06-24 19:00:00,Hebbal,202,Rainy,0,29.6,Tuesday
+2025-06-24 20:00:00,Madiwala,205,Clear,0,24.7,Tuesday
+2025-06-24 21:00:00,Madiwala,194,Rainy,0,27.0,Tuesday
+2025-06-24 22:00:00,KR Puram,202,Cloudy,1,25.7,Tuesday
+2025-06-24 23:00:00,KR Puram,211,Cloudy,0,32.0,Tuesday
+2025-06-25 00:00:00,Hebbal,211,Rainy,0,24.4,Wednesday
+2025-06-25 01:00:00,Marathahalli,235,Rainy,0,30.7,Wednesday
+2025-06-25 02:00:00,Hebbal,193,Rainy,0,30.7,Wednesday
+2025-06-25 03:00:00,Marathahalli,192,Foggy,0,33.5,Wednesday
+2025-06-25 04:00:00,Marathahalli,198,Rainy,0,26.8,Wednesday
+2025-06-25 05:00:00,KR Puram,220,Clear,0,30.1,Wednesday
+2025-06-25 06:00:00,Silk Board,195,Foggy,0,34.8,Wednesday
+2025-06-25 07:00:00,Silk Board,208,Foggy,0,26.1,Wednesday
+2025-06-25 08:00:00,Madiwala,205,Rainy,0,23.4,Wednesday
+2025-06-25 09:00:00,KR Puram,213,Clear,1,22.4,Wednesday
+2025-06-25 10:00:00,Marathahalli,204,Foggy,0,30.1,Wednesday
+2025-06-25 11:00:00,Silk Board,206,Cloudy,0,22.4,Wednesday
+2025-06-25 12:00:00,Marathahalli,203,Foggy,0,26.9,Wednesday
+2025-06-25 13:00:00,Silk Board,202,Rainy,0,29.3,Wednesday
+2025-06-25 14:00:00,Silk Board,207,Clear,0,28.6,Wednesday
+2025-06-25 15:00:00,Silk Board,190,Rainy,0,29.3,Wednesday
+2025-06-25 16:00:00,KR Puram,200,Cloudy,0,28.7,Wednesday
+2025-06-25 17:00:00,Hebbal,171,Cloudy,0,31.8,Wednesday
+2025-06-25 18:00:00,Marathahalli,213,Cloudy,0,25.1,Wednesday
+2025-06-25 19:00:00,KR Puram,213,Rainy,0,26.0,Wednesday
+2025-06-25 20:00:00,KR Puram,198,Foggy,0,25.7,Wednesday
+2025-06-25 21:00:00,KR Puram,193,Rainy,0,30.5,Wednesday
+2025-06-25 22:00:00,KR Puram,177,Clear,0,30.7,Wednesday
+2025-06-25 23:00:00,KR Puram,204,Foggy,1,29.4,Wednesday
+2025-06-26 00:00:00,Madiwala,206,Cloudy,1,31.6,Thursday
+2025-06-26 01:00:00,Marathahalli,206,Rainy,0,24.5,Thursday
+2025-06-26 02:00:00,KR Puram,180,Cloudy,0,33.0,Thursday
+2025-06-26 03:00:00,Marathahalli,216,Cloudy,0,32.6,Thursday
+2025-06-26 04:00:00,Madiwala,203,Clear,1,30.2,Thursday
+2025-06-26 05:00:00,Madiwala,185,Foggy,1,33.3,Thursday
+2025-06-26 06:00:00,Marathahalli,193,Clear,0,23.0,Thursday
+2025-06-26 07:00:00,Silk Board,190,Clear,0,26.4,Thursday
+2025-06-26 08:00:00,Hebbal,190,Clear,0,25.8,Thursday
+2025-06-26 09:00:00,Silk Board,219,Cloudy,0,30.2,Thursday
+2025-06-26 10:00:00,Silk Board,186,Clear,0,24.8,Thursday
+2025-06-26 11:00:00,Silk Board,198,Clear,1,30.3,Thursday
+2025-06-26 12:00:00,KR Puram,182,Foggy,0,32.1,Thursday
+2025-06-26 13:00:00,Madiwala,210,Foggy,0,30.1,Thursday
+2025-06-26 14:00:00,Silk Board,197,Clear,1,28.9,Thursday
+2025-06-26 15:00:00,Madiwala,212,Foggy,0,25.0,Thursday
+2025-06-26 16:00:00,Marathahalli,204,Foggy,0,25.5,Thursday
+2025-06-26 17:00:00,Hebbal,211,Clear,0,31.7,Thursday
+2025-06-26 18:00:00,Marathahalli,235,Cloudy,0,30.3,Thursday
+2025-06-26 19:00:00,Marathahalli,170,Clear,0,27.9,Thursday
+2025-06-26 20:00:00,KR Puram,190,Foggy,0,26.7,Thursday
+2025-06-26 21:00:00,Hebbal,222,Cloudy,0,21.9,Thursday
+2025-06-26 22:00:00,Marathahalli,190,Rainy,0,24.8,Thursday
+2025-06-26 23:00:00,Marathahalli,198,Cloudy,0,33.7,Thursday
+2025-06-27 00:00:00,Hebbal,173,Foggy,0,24.2,Friday
+2025-06-27 01:00:00,Hebbal,159,Cloudy,0,28.6,Friday
+2025-06-27 02:00:00,Marathahalli,222,Clear,0,31.0,Friday
+2025-06-27 03:00:00,Hebbal,201,Rainy,0,24.2,Friday
+2025-06-27 04:00:00,Marathahalli,194,Rainy,0,28.6,Friday
+2025-06-27 05:00:00,Marathahalli,228,Rainy,0,30.8,Friday
+2025-06-27 06:00:00,KR Puram,197,Foggy,0,28.0,Friday
+2025-06-27 07:00:00,Silk Board,189,Foggy,0,36.6,Friday
+2025-06-27 08:00:00,Marathahalli,186,Rainy,0,23.0,Friday
+2025-06-27 09:00:00,Madiwala,198,Cloudy,1,31.2,Friday
+2025-06-27 10:00:00,Silk Board,204,Rainy,0,27.5,Friday
+2025-06-27 11:00:00,Silk Board,180,Cloudy,0,30.3,Friday
+2025-06-27 12:00:00,Silk Board,188,Cloudy,0,29.3,Friday
+2025-06-27 13:00:00,KR Puram,217,Foggy,0,25.8,Friday
+2025-06-27 14:00:00,Marathahalli,201,Cloudy,0,28.7,Friday
+2025-06-27 15:00:00,KR Puram,218,Rainy,0,22.4,Friday
+2025-06-27 16:00:00,Marathahalli,173,Foggy,0,29.8,Friday
+2025-06-27 17:00:00,KR Puram,202,Clear,0,28.9,Friday
+2025-06-27 18:00:00,KR Puram,198,Clear,0,29.9,Friday
+2025-06-27 19:00:00,Madiwala,217,Foggy,0,31.2,Friday
+2025-06-27 20:00:00,KR Puram,198,Rainy,0,29.1,Friday
+2025-06-27 21:00:00,Hebbal,206,Clear,1,28.4,Friday
+2025-06-27 22:00:00,Madiwala,172,Clear,0,25.4,Friday
+2025-06-27 23:00:00,KR Puram,214,Cloudy,0,25.9,Friday
+2025-06-28 00:00:00,Silk Board,186,Cloudy,0,31.6,Saturday
+2025-06-28 01:00:00,Hebbal,184,Rainy,0,32.3,Saturday
+2025-06-28 02:00:00,Hebbal,211,Foggy,0,27.3,Saturday
+2025-06-28 03:00:00,Hebbal,187,Rainy,0,28.1,Saturday
+2025-06-28 04:00:00,Madiwala,219,Foggy,0,25.3,Saturday
+2025-06-28 05:00:00,KR Puram,188,Clear,0,31.5,Saturday
+2025-06-28 06:00:00,KR Puram,153,Cloudy,0,30.0,Saturday
+2025-06-28 07:00:00,Silk Board,198,Rainy,0,33.8,Saturday
+2025-06-28 08:00:00,Silk Board,201,Rainy,1,25.4,Saturday
+2025-06-28 09:00:00,Hebbal,179,Foggy,0,26.9,Saturday
+2025-06-28 10:00:00,Silk Board,215,Foggy,0,28.7,Saturday
+2025-06-28 11:00:00,Madiwala,187,Rainy,0,29.9,Saturday
+2025-06-28 12:00:00,KR Puram,191,Foggy,0,27.4,Saturday
+2025-06-28 13:00:00,Hebbal,203,Rainy,0,25.4,Saturday
+2025-06-28 14:00:00,Silk Board,213,Rainy,0,30.6,Saturday
+2025-06-28 15:00:00,Madiwala,224,Rainy,0,30.2,Saturday
+2025-06-28 16:00:00,Madiwala,184,Clear,0,25.3,Saturday
+2025-06-28 17:00:00,Silk Board,213,Foggy,0,32.1,Saturday
+2025-06-28 18:00:00,KR Puram,217,Cloudy,0,31.5,Saturday
+2025-06-28 19:00:00,Silk Board,182,Cloudy,1,28.4,Saturday
+2025-06-28 20:00:00,Hebbal,206,Foggy,0,28.2,Saturday
+2025-06-28 21:00:00,Silk Board,198,Rainy,0,29.7,Saturday
+2025-06-28 22:00:00,Madiwala,176,Cloudy,0,25.4,Saturday
+2025-06-28 23:00:00,Silk Board,214,Cloudy,0,28.1,Saturday
+2025-06-29 00:00:00,KR Puram,206,Foggy,0,21.5,Sunday
+2025-06-29 01:00:00,Marathahalli,219,Cloudy,0,30.6,Sunday
+2025-06-29 02:00:00,Silk Board,184,Rainy,0,23.3,Sunday
+2025-06-29 03:00:00,KR Puram,202,Foggy,0,32.5,Sunday
+2025-06-29 04:00:00,KR Puram,209,Rainy,0,27.0,Sunday
+2025-06-29 05:00:00,Madiwala,175,Cloudy,0,27.4,Sunday
+2025-06-29 06:00:00,KR Puram,186,Cloudy,0,26.1,Sunday
+2025-06-29 07:00:00,KR Puram,215,Rainy,0,27.1,Sunday
+2025-06-29 08:00:00,KR Puram,209,Clear,0,32.3,Sunday
+2025-06-29 09:00:00,KR Puram,199,Cloudy,0,20.5,Sunday
+2025-06-29 10:00:00,Hebbal,198,Clear,0,31.8,Sunday
+2025-06-29 11:00:00,Hebbal,200,Cloudy,0,29.0,Sunday
+2025-06-29 12:00:00,Madiwala,193,Clear,0,24.4,Sunday
+2025-06-29 13:00:00,Silk Board,209,Clear,0,24.8,Sunday
+2025-06-29 14:00:00,KR Puram,179,Clear,0,33.0,Sunday
+2025-06-29 15:00:00,Silk Board,182,Rainy,0,25.2,Sunday
+2025-06-29 16:00:00,Silk Board,198,Clear,0,24.5,Sunday
+2025-06-29 17:00:00,Madiwala,206,Clear,0,31.4,Sunday
+2025-06-29 18:00:00,KR Puram,194,Clear,1,29.0,Sunday
+2025-06-29 19:00:00,KR Puram,199,Cloudy,1,25.2,Sunday
+2025-06-29 20:00:00,Marathahalli,205,Clear,0,28.6,Sunday
+2025-06-29 21:00:00,Silk Board,207,Cloudy,0,24.9,Sunday
+2025-06-29 22:00:00,Silk Board,208,Clear,0,31.3,Sunday
+2025-06-29 23:00:00,Hebbal,185,Clear,0,31.2,Sunday
+2025-06-30 00:00:00,Marathahalli,188,Rainy,1,29.6,Monday
+2025-06-30 01:00:00,Hebbal,190,Cloudy,0,29.1,Monday
+2025-06-30 02:00:00,Hebbal,208,Clear,0,33.3,Monday
+2025-06-30 03:00:00,Hebbal,192,Cloudy,1,28.0,Monday
+2025-06-30 04:00:00,Madiwala,206,Cloudy,0,24.5,Monday
+2025-06-30 05:00:00,Madiwala,218,Foggy,0,29.3,Monday
+2025-06-30 06:00:00,Hebbal,213,Rainy,1,34.3,Monday
+2025-06-30 07:00:00,Marathahalli,190,Rainy,0,25.0,Monday
+2025-06-30 08:00:00,Silk Board,207,Rainy,0,26.9,Monday
+2025-06-30 09:00:00,Marathahalli,180,Foggy,0,29.2,Monday
+2025-06-30 10:00:00,KR Puram,198,Foggy,0,27.8,Monday
+2025-06-30 11:00:00,Madiwala,202,Rainy,0,25.1,Monday
+2025-06-30 12:00:00,Silk Board,197,Foggy,0,31.4,Monday
+2025-06-30 13:00:00,Silk Board,191,Foggy,1,35.0,Monday
+2025-06-30 14:00:00,KR Puram,191,Foggy,0,28.6,Monday
+2025-06-30 15:00:00,KR Puram,211,Rainy,0,25.3,Monday
+2025-06-30 16:00:00,Hebbal,210,Rainy,0,23.4,Monday
+2025-06-30 17:00:00,Madiwala,215,Rainy,0,28.8,Monday
+2025-06-30 18:00:00,Madiwala,219,Foggy,0,31.3,Monday
+2025-06-30 19:00:00,Marathahalli,209,Rainy,0,29.4,Monday
+2025-06-30 20:00:00,Hebbal,178,Foggy,0,28.0,Monday
+2025-06-30 21:00:00,Hebbal,192,Clear,0,26.2,Monday
+2025-06-30 22:00:00,Hebbal,191,Foggy,0,24.7,Monday
+2025-06-30 23:00:00,Hebbal,210,Cloudy,0,30.5,Monday
